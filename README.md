@@ -1,2 +1,3 @@
 - Olá, à partir de hoje estou aprendendo C.
 - Não há mais nada a dizer.
+- 13/12/2021 às 11:54.
