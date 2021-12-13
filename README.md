@@ -1,2 +1,2 @@
-- Olá, estou aprendendo a partir de hoje C, C#, C++ e Assembly.
-- Nada mais a dizer.
+- Olá, à partir de hoje estou aprendendo C.
+- Não há mais nada a dizer.
